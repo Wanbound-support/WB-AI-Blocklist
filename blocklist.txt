@@ -23,4 +23,5 @@ perplexity.ai
 stability.ai
 writesonic.com
 x.ai
-nas.meesplex.com
+test.com
+123.com
