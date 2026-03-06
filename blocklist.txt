@@ -14,7 +14,6 @@ huggingface.co
 jasper.ai
 komo.ai
 meta.ai
-microsoft.com
 midjourney.com
 mistral.ai
 molt.bot
