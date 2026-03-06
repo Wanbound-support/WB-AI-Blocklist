@@ -25,3 +25,6 @@ writesonic.com
 x.ai
 test.com
 123.com
+ad.nl
+nu.nl
+portal.onlineworkplace.nl
