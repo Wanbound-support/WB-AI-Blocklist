@@ -20,7 +20,6 @@ molt.bot
 nightcafe.studio
 openclaw.ai
 perplexity.ai
-search.brave.com
 stability.ai
 writesonic.com
 x.ai
