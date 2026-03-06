@@ -28,3 +28,4 @@ test.com
 ad.nl
 nu.nl
 portal.onlineworkplace.nl
+chatgpt.com
