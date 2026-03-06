@@ -23,3 +23,4 @@ perplexity.ai
 stability.ai
 writesonic.com
 x.ai
+ollama.com
