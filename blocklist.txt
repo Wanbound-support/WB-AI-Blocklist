@@ -23,3 +23,6 @@ perplexity.ai
 stability.ai
 writesonic.com
 x.ai
+test.com
+nas.meesplex.com
+portal.onlineworkplace.nl
